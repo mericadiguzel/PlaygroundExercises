@@ -14,3 +14,4 @@ let e = alphabet[Int.random(in: 2 ..< 3)]
 
 var password = [a + b + c + d + e]
 print(password)
+// Output is my name which is meric. :)
